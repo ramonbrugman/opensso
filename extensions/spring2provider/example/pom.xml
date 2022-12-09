@@ -36,7 +36,7 @@
     <name>OpenSSO - Spring Security example web application</name>
 
     <properties>
-        <springframework.version>2.5.4</springframework.version>
+        <springframework.version>6.0.0</springframework.version>
         <netbeans.hint.deploy.server>J2EE</netbeans.hint.deploy.server>
     </properties>
 
